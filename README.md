@@ -1,7 +1,7 @@
-This is my first HTML project. It is designed to take users from one .html page to another, showing varying recipes and images.
+This is my first HTML project. It is designed to take users from one recipe page to another, showing different recipes and images, all accessible from the home page.
 
-Over the course of this project, I will be adding detailed outlines for my recipes, I will be adding pictures with the correct format, and make the website accessible to anyone using a screen reader. I plan to have multiple links, which include relative, and absolute links. The same will apply for the images I use.
+This project uses relative links to display the images for each recipe, as well as ordered and unordered lists for the instructions and ingredients. It also includes emphasis elements, strong elements, and anchor elements to link to each recipe and back to the home page.
 
-I will be eventually styling this project with CSS.
+I will eventually be styling this project with CSS.
 
-Last quick note: I will be accessing, creating, and editing all files via macOS terminal. There will be no help from IDE's. (This is written via VScode).
+Last quick note: I accessed, created, and edited all files and directories via the macOS terminal using Git. There was no help from IDEs. (This project was written in VS Code.)
