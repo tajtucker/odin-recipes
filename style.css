@@ -1,0 +1,59 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-image: url("/Users/tajtucker/repos/odin-recipes/images/fallbackground.jpg");
+    background-size: cover;
+    background-position-x: center;
+    margin: 0;
+    padding: 0;
+}
+
+.image {
+    margin: 10px auto;
+    display: block;
+}
+
+h1 {
+    margin: 100px 580px 0px 580px;
+}
+
+.recipelinks,
+h2 {
+    margin: 20px 580px 0px 580px;
+}
+
+p,
+h2 {
+    background-color: burlywood;
+    padding: 8px;
+    border: 5px solid orange;
+    text-align: center;
+}
+
+.listborder {
+    background-color: burlywood;
+    padding: 8px 20px;
+    border: 5px solid orange;
+}
+
+h1,
+.recipelinks {
+    background-color: burlywood;
+    padding: 8px;
+    text-align: center;
+    border: 5px solid orange;
+}
+
+
+.block{
+    display: block;
+    padding: 2px;
+    color: black;
+}
+
+.homelink {
+    background-color: burlywood;
+    border: 2px solid orange;
+    padding: 2px;
+    text-align: left;
+    color: black;
+}
