@@ -1,6 +1,6 @@
 body {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    background-image: url("./images/fallbackground.jpg");
+    background-image: url("/images/fallbackground.jpg");
     background-size: cover;
     background-position-x: center;
     margin: 0;
