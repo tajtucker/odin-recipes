@@ -5,3 +5,5 @@ This project uses relative links to display the images for each recipe, as well 
 As for CSS, this project includes, margins, padding, borders, as well as different colors and block displays.
 
 Last quick note: I accessed, created, and edited all files and directories via the macOS terminal using Git. There was no help from IDEs. (This project was written in VS Code.)
+
+Live Preview: https://tajtucker.github.io/odin-recipes/
